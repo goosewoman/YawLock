@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.kukelekuuk.yawlock.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "YawLockMixin",
+    "InputMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
